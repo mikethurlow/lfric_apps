@@ -22,8 +22,8 @@ casim:
     ref: 2026.07.1
 
 jules:
-    source: git@github.com:MetOffice/jules.git
-    ref: 2026.07.1
+    source: git@github.com:pdearnshaw/jules.git
+    ref: tag8.2_neg_snow_part2
 
 lfric_apps:
     source:
